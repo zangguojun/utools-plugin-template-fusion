@@ -8,7 +8,7 @@
     "preview": "vite preview",
     "eslint": "eslint --cache --ext .js,.jsx ./",
     "eslint:fix": "npm run eslint -- --fix",
-    "stylelint": "stylelint \"**/*.{css,scss,less}\"",
+    "stylelint": "stylelint \"**/*.{css}\"",
     "stylelint:fix": "stylelint \"**/*.{css}\" --fix",
     "lint": "npm run eslint && npm run stylelint",
     "prepare": "husky install"
