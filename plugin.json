@@ -9,7 +9,7 @@
   "development": {
     "main": "http://127.0.0.1:5173/index.html"
   },
-  "logo": "src/public/logo.jpg",
+  "logo": "src/assets/logo.jpg",
   "features": [
     {
       "code": "hello",
